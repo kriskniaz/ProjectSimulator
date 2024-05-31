@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<package xmlns="http://schemas.microsoft.com/WindowsScriptHost">
+    <job id="RunTestExe">
+        <script language="VBScript">
+            <![CDATA[
+            Dim shell, i
+            Set shell = CreateObject("WScript.Shell")
+
+            For i = 1 To 100
+                WScript.Echo "Running test.exe, Run ID: " & i
+                shell.Run "NET.Kniaz.ProperArchitecture.Simulator.exe " & i, 1, True
+            Next
+            ]]>
+        </script>
+    </job>
+</package>
+

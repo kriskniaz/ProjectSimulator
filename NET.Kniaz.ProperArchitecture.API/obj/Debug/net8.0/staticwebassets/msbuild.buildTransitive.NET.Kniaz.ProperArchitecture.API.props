@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NET.Kniaz.ProperArchitecture.API.props" />
+</Project>

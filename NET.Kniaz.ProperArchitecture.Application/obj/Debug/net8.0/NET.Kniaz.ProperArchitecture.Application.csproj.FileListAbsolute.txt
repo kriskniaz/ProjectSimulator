@@ -1,0 +1,17 @@
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Application\bin\Debug\net8.0\NET.Kniaz.ProperArchitecture.Application.deps.json
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Application\bin\Debug\net8.0\NET.Kniaz.ProperArchitecture.Application.dll
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Application\bin\Debug\net8.0\NET.Kniaz.ProperArchitecture.Application.pdb
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Application\bin\Debug\net8.0\NET.Kniaz.ProperArchitecture.Domain.dll
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Application\bin\Debug\net8.0\NET.Kniaz.ProperArchitecture.Persistence.dll
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Application\bin\Debug\net8.0\NET.Kniaz.ProperArchitecture.Domain.pdb
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Application\bin\Debug\net8.0\NET.Kniaz.ProperArchitecture.Persistence.pdb
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Application\obj\Debug\net8.0\NET.Kniaz.ProperArchitecture.Application.csproj.AssemblyReference.cache
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Application\obj\Debug\net8.0\NET.Kniaz.ProperArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Application\obj\Debug\net8.0\NET.Kniaz.ProperArchitecture.Application.AssemblyInfoInputs.cache
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Application\obj\Debug\net8.0\NET.Kniaz.ProperArchitecture.Application.AssemblyInfo.cs
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Application\obj\Debug\net8.0\NET.Kniaz.ProperArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Application\obj\Debug\net8.0\NET.Knia.4853A7C0.Up2Date
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Application\obj\Debug\net8.0\NET.Kniaz.ProperArchitecture.Application.dll
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Application\obj\Debug\net8.0\refint\NET.Kniaz.ProperArchitecture.Application.dll
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Application\obj\Debug\net8.0\NET.Kniaz.ProperArchitecture.Application.pdb
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Application\obj\Debug\net8.0\ref\NET.Kniaz.ProperArchitecture.Application.dll

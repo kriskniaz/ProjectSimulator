@@ -1,0 +1,11 @@
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Domain\bin\Debug\net8.0\NET.Kniaz.ProperArchitecture.Domain.deps.json
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Domain\bin\Debug\net8.0\NET.Kniaz.ProperArchitecture.Domain.dll
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Domain\bin\Debug\net8.0\NET.Kniaz.ProperArchitecture.Domain.pdb
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Domain\obj\Debug\net8.0\NET.Kniaz.ProperArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Domain\obj\Debug\net8.0\NET.Kniaz.ProperArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Domain\obj\Debug\net8.0\NET.Kniaz.ProperArchitecture.Domain.AssemblyInfo.cs
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Domain\obj\Debug\net8.0\NET.Kniaz.ProperArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Domain\obj\Debug\net8.0\NET.Kniaz.ProperArchitecture.Domain.dll
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Domain\obj\Debug\net8.0\refint\NET.Kniaz.ProperArchitecture.Domain.dll
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Domain\obj\Debug\net8.0\NET.Kniaz.ProperArchitecture.Domain.pdb
+C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Domain\obj\Debug\net8.0\ref\NET.Kniaz.ProperArchitecture.Domain.dll

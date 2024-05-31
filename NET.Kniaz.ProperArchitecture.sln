@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET.Kniaz.ProperArchitecture.API", "NET.Kniaz.ProperArchitecture.API\NET.Kniaz.ProperArchitecture.API.csproj", "{FA791C34-CA4F-4CA7-8111-D2E0F60802F0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET.Kniaz.ProperArchitecture.Domain", "NET.Kniaz.ProperArchitecture.Domain\NET.Kniaz.ProperArchitecture.Domain.csproj", "{F80DCE08-603E-486B-890C-B264FDA3B726}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET.Kniaz.ProperArchitecture.Persistence", "NET.Kniaz.ProperArchitecture.Persistence\NET.Kniaz.ProperArchitecture.Persistence.csproj", "{BC8F58A3-99A1-46FB-8710-AA4497A9AD3E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET.Kniaz.ProperArchitecture.Application", "NET.Kniaz.ProperArchitecture.Application\NET.Kniaz.ProperArchitecture.Application.csproj", "{77555360-7304-4002-BFCC-31F206518E1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET.Kniaz.ProperArchitecture.Simulator", "NET.Kniaz.ProperArchitecture.Simulator\NET.Kniaz.ProperArchitecture.Simulator.csproj", "{DCB436AE-0376-43D3-8DF0-D3B135849513}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA791C34-CA4F-4CA7-8111-D2E0F60802F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA791C34-CA4F-4CA7-8111-D2E0F60802F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA791C34-CA4F-4CA7-8111-D2E0F60802F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA791C34-CA4F-4CA7-8111-D2E0F60802F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F80DCE08-603E-486B-890C-B264FDA3B726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80DCE08-603E-486B-890C-B264FDA3B726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80DCE08-603E-486B-890C-B264FDA3B726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80DCE08-603E-486B-890C-B264FDA3B726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC8F58A3-99A1-46FB-8710-AA4497A9AD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC8F58A3-99A1-46FB-8710-AA4497A9AD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC8F58A3-99A1-46FB-8710-AA4497A9AD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC8F58A3-99A1-46FB-8710-AA4497A9AD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77555360-7304-4002-BFCC-31F206518E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77555360-7304-4002-BFCC-31F206518E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77555360-7304-4002-BFCC-31F206518E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77555360-7304-4002-BFCC-31F206518E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCB436AE-0376-43D3-8DF0-D3B135849513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB436AE-0376-43D3-8DF0-D3B135849513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB436AE-0376-43D3-8DF0-D3B135849513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB436AE-0376-43D3-8DF0-D3B135849513}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {678E9DFB-9CED-4147-9E17-F38DAA7A4BBA}
+	EndGlobalSection
+EndGlobal
