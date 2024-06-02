@@ -1,0 +1,84 @@
+6/2/2024 8:39:44 AM	This log contains information about the import schema operation into project 'NET.Kniaz.ProperArchitecture.Database' on computer 'GALAPAGOS3' by user 'kknia'.
+6/2/2024 8:39:45 AM	Import of database schema has started.
+6/2/2024 8:39:56 AM	Gathering database credentials
+6/2/2024 8:39:56 AM	Gathering database options
+6/2/2024 8:39:56 AM	Gathering generic database scoped configuration option
+6/2/2024 8:39:56 AM	Gathering users
+6/2/2024 8:39:56 AM	Gathering roles
+6/2/2024 8:39:56 AM	Gathering application roles
+6/2/2024 8:39:56 AM	Gathering role memberships
+6/2/2024 8:39:56 AM	Gathering filegroups
+6/2/2024 8:39:57 AM	Gathering full-text catalogs
+6/2/2024 8:39:57 AM	Gathering assemblies
+6/2/2024 8:39:57 AM	Gathering certificates
+6/2/2024 8:39:57 AM	Gathering asymmetric keys
+6/2/2024 8:39:57 AM	Gathering symmetric keys
+6/2/2024 8:39:57 AM	Gathering encrypted symmetric keys
+6/2/2024 8:39:57 AM	Gathering schemas
+6/2/2024 8:39:57 AM	Gathering XML schema collections
+6/2/2024 8:39:57 AM	Gathering user-defined data types
+6/2/2024 8:39:57 AM	Gathering user-defined types
+6/2/2024 8:39:57 AM	Gathering table types
+6/2/2024 8:39:57 AM	Gathering unique keys for table types
+6/2/2024 8:39:57 AM	Gathering primary keys for table types
+6/2/2024 8:39:57 AM	Gathering indexes for table types
+6/2/2024 8:39:57 AM	Gathering check constraints for table types
+6/2/2024 8:39:57 AM	Gathering default constraints for table types
+6/2/2024 8:39:57 AM	Gathering partition functions
+6/2/2024 8:39:57 AM	Gathering partition schemes
+6/2/2024 8:39:57 AM	Gathering functions
+6/2/2024 8:39:57 AM	Gathering encrypted functions
+6/2/2024 8:39:57 AM	Gathering aggregates
+6/2/2024 8:39:57 AM	Gathering procedures
+6/2/2024 8:39:57 AM	Gathering encrypted procedures
+6/2/2024 8:39:57 AM	Gathering tables
+6/2/2024 8:39:57 AM	Gathering primary keys
+6/2/2024 8:39:57 AM	Gathering unique constraints
+6/2/2024 8:39:57 AM	Gathering foreign keys
+6/2/2024 8:39:57 AM	Gathering default constraints
+6/2/2024 8:39:57 AM	Gathering check constraints
+6/2/2024 8:39:57 AM	Gathering views
+6/2/2024 8:39:57 AM	Gathering encrypted views
+6/2/2024 8:39:57 AM	Gathering indexes
+6/2/2024 8:39:57 AM	Gathering statistics
+6/2/2024 8:39:57 AM	Gathering full-text index stoplists
+6/2/2024 8:39:57 AM	Gathering search property lists
+6/2/2024 8:39:57 AM	Gathering search properties
+6/2/2024 8:39:57 AM	Gathering full-text indexes
+6/2/2024 8:39:57 AM	Gathering column store indexes
+6/2/2024 8:39:57 AM	Gathering spatial indexes
+6/2/2024 8:39:57 AM	Gathering XML indexes
+6/2/2024 8:39:57 AM	Gathering Selective XML indexes
+6/2/2024 8:39:57 AM	Gathering encrypted triggers
+6/2/2024 8:39:57 AM	Gathering triggers
+6/2/2024 8:39:57 AM	Gathering encrypted and clr ddl triggers
+6/2/2024 8:39:57 AM	Gathering ddl triggers
+6/2/2024 8:39:57 AM	Creating edge constraints
+6/2/2024 8:39:57 AM	Gathering synonyms
+6/2/2024 8:39:57 AM	Gathering defaults
+6/2/2024 8:39:57 AM	Gathering data constraint uddt bindings
+6/2/2024 8:39:57 AM	Gathering rules
+6/2/2024 8:39:57 AM	Gathering data constraint uddt bindings
+6/2/2024 8:39:57 AM	Gathering message types
+6/2/2024 8:39:57 AM	Gathering queues
+6/2/2024 8:39:57 AM	Gathering contracts
+6/2/2024 8:39:57 AM	Gathering services
+6/2/2024 8:39:57 AM	Gathering event notifications
+6/2/2024 8:39:57 AM	Gathering remote service bindings
+6/2/2024 8:39:57 AM	Gathering broker priorities
+6/2/2024 8:39:57 AM	Gathering signatures
+6/2/2024 8:39:57 AM	Gathering compression options
+6/2/2024 8:39:57 AM	Gathering sequence types
+6/2/2024 8:39:57 AM	Gathering security policies
+6/2/2024 8:39:57 AM	Gather column encryption keys
+6/2/2024 8:39:57 AM	Gathering column master keys
+6/2/2024 8:39:57 AM	Gathering external data sources
+6/2/2024 8:39:57 AM	Gathering external file formats
+6/2/2024 8:39:57 AM	Gathering external tables
+6/2/2024 8:39:57 AM	Gathering extended properties
+6/2/2024 8:39:57 AM	Gathering assemblies
+6/2/2024 8:39:58 AM	Scanning project for duplicate elements
+6/2/2024 8:39:59 AM	Finished duplicate element processing
+6/2/2024 8:39:59 AM	Finished importing database.
+6/2/2024 8:39:59 AM	A summary of the import was saved to the following location: C:\Technology\Code\NET\NET.Kniaz.ProperArchitecture\NET.Kniaz.ProperArchitecture.Database\Import Schema Logs\NET.Kniaz.ProperArch_20240602123944.log
+6/2/2024 8:39:59 AM	Click Finish to continue...
