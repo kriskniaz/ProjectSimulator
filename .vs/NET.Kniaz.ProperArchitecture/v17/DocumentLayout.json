@@ -1,0 +1,1002 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB436AE-0376-43D3-8DF0-D3B135849513}|NET.Kniaz.ProperArchitecture.Simulator\\NET.Kniaz.ProperArchitecture.Simulator.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.simulator\\sim.wsf||{D411C4AC-FCFD-49BF-8D63-B94E075023F2}",
+      "RelativeMoniker": "D:0:0:{DCB436AE-0376-43D3-8DF0-D3B135849513}|NET.Kniaz.ProperArchitecture.Simulator\\NET.Kniaz.ProperArchitecture.Simulator.csproj|solutionrelative:net.kniaz.properarchitecture.simulator\\sim.wsf||{D411C4AC-FCFD-49BF-8D63-B94E075023F2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB436AE-0376-43D3-8DF0-D3B135849513}|NET.Kniaz.ProperArchitecture.Simulator\\NET.Kniaz.ProperArchitecture.Simulator.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.simulator\\simulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB436AE-0376-43D3-8DF0-D3B135849513}|NET.Kniaz.ProperArchitecture.Simulator\\NET.Kniaz.ProperArchitecture.Simulator.csproj|solutionrelative:net.kniaz.properarchitecture.simulator\\simulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB436AE-0376-43D3-8DF0-D3B135849513}|NET.Kniaz.ProperArchitecture.Simulator\\NET.Kniaz.ProperArchitecture.Simulator.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.simulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB436AE-0376-43D3-8DF0-D3B135849513}|NET.Kniaz.ProperArchitecture.Simulator\\NET.Kniaz.ProperArchitecture.Simulator.csproj|solutionrelative:net.kniaz.properarchitecture.simulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB436AE-0376-43D3-8DF0-D3B135849513}|NET.Kniaz.ProperArchitecture.Simulator\\NET.Kniaz.ProperArchitecture.Simulator.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.simulator\\poissonsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB436AE-0376-43D3-8DF0-D3B135849513}|NET.Kniaz.ProperArchitecture.Simulator\\NET.Kniaz.ProperArchitecture.Simulator.csproj|solutionrelative:net.kniaz.properarchitecture.simulator\\poissonsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.application\\utils\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|solutionrelative:net.kniaz.properarchitecture.application\\utils\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB436AE-0376-43D3-8DF0-D3B135849513}|NET.Kniaz.ProperArchitecture.Simulator\\NET.Kniaz.ProperArchitecture.Simulator.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.simulator\\idealsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB436AE-0376-43D3-8DF0-D3B135849513}|NET.Kniaz.ProperArchitecture.Simulator\\NET.Kniaz.ProperArchitecture.Simulator.csproj|solutionrelative:net.kniaz.properarchitecture.simulator\\idealsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB436AE-0376-43D3-8DF0-D3B135849513}|NET.Kniaz.ProperArchitecture.Simulator\\NET.Kniaz.ProperArchitecture.Simulator.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.simulator\\genericsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB436AE-0376-43D3-8DF0-D3B135849513}|NET.Kniaz.ProperArchitecture.Simulator\\NET.Kniaz.ProperArchitecture.Simulator.csproj|solutionrelative:net.kniaz.properarchitecture.simulator\\genericsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.application\\utils\\entitiescommandsmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|solutionrelative:net.kniaz.properarchitecture.application\\utils\\entitiescommandsmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80DCE08-603E-486B-890C-B264FDA3B726}|NET.Kniaz.ProperArchitecture.Domain\\NET.Kniaz.ProperArchitecture.Domain.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.domain\\entities\\simulationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80DCE08-603E-486B-890C-B264FDA3B726}|NET.Kniaz.ProperArchitecture.Domain\\NET.Kniaz.ProperArchitecture.Domain.csproj|solutionrelative:net.kniaz.properarchitecture.domain\\entities\\simulationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.application\\commands\\simulationresultcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|solutionrelative:net.kniaz.properarchitecture.application\\commands\\simulationresultcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.application\\events\\teammembernotavailableevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|solutionrelative:net.kniaz.properarchitecture.application\\events\\teammembernotavailableevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.application\\abstractions\\isprintevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|solutionrelative:net.kniaz.properarchitecture.application\\abstractions\\isprintevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8F58A3-99A1-46FB-8710-AA4497A9AD3E}|NET.Kniaz.ProperArchitecture.Persistence\\NET.Kniaz.ProperArchitecture.Persistence.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8F58A3-99A1-46FB-8710-AA4497A9AD3E}|NET.Kniaz.ProperArchitecture.Persistence\\NET.Kniaz.ProperArchitecture.Persistence.csproj|solutionrelative:net.kniaz.properarchitecture.persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.application\\events\\newscopeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|solutionrelative:net.kniaz.properarchitecture.application\\events\\newscopeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.application\\commandhandlers\\teammembercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|solutionrelative:net.kniaz.properarchitecture.application\\commandhandlers\\teammembercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.application\\commandhandlers\\teamcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|solutionrelative:net.kniaz.properarchitecture.application\\commandhandlers\\teamcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.application\\commandhandlers\\simulationresultcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|solutionrelative:net.kniaz.properarchitecture.application\\commandhandlers\\simulationresultcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.application\\commandhandlers\\projectcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|solutionrelative:net.kniaz.properarchitecture.application\\commandhandlers\\projectcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.application\\commandhandlers\\commitcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|solutionrelative:net.kniaz.properarchitecture.application\\commandhandlers\\commitcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8F58A3-99A1-46FB-8710-AA4497A9AD3E}|NET.Kniaz.ProperArchitecture.Persistence\\NET.Kniaz.ProperArchitecture.Persistence.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.persistence\\repositories\\teammemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8F58A3-99A1-46FB-8710-AA4497A9AD3E}|NET.Kniaz.ProperArchitecture.Persistence\\NET.Kniaz.ProperArchitecture.Persistence.csproj|solutionrelative:net.kniaz.properarchitecture.persistence\\repositories\\teammemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.application\\commandhandlers\\genericcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|solutionrelative:net.kniaz.properarchitecture.application\\commandhandlers\\genericcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.application\\commandhandlers\\currencycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|solutionrelative:net.kniaz.properarchitecture.application\\commandhandlers\\currencycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.application\\commands\\currencycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|solutionrelative:net.kniaz.properarchitecture.application\\commands\\currencycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.application\\abstractions\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|solutionrelative:net.kniaz.properarchitecture.application\\abstractions\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80DCE08-603E-486B-890C-B264FDA3B726}|NET.Kniaz.ProperArchitecture.Domain\\NET.Kniaz.ProperArchitecture.Domain.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.domain\\abstractions\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80DCE08-603E-486B-890C-B264FDA3B726}|NET.Kniaz.ProperArchitecture.Domain\\NET.Kniaz.ProperArchitecture.Domain.csproj|solutionrelative:net.kniaz.properarchitecture.domain\\abstractions\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8F58A3-99A1-46FB-8710-AA4497A9AD3E}|NET.Kniaz.ProperArchitecture.Persistence\\NET.Kniaz.ProperArchitecture.Persistence.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.persistence\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8F58A3-99A1-46FB-8710-AA4497A9AD3E}|NET.Kniaz.ProperArchitecture.Persistence\\NET.Kniaz.ProperArchitecture.Persistence.csproj|solutionrelative:net.kniaz.properarchitecture.persistence\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8F58A3-99A1-46FB-8710-AA4497A9AD3E}|NET.Kniaz.ProperArchitecture.Persistence\\NET.Kniaz.ProperArchitecture.Persistence.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.persistence\\repositories\\storyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8F58A3-99A1-46FB-8710-AA4497A9AD3E}|NET.Kniaz.ProperArchitecture.Persistence\\NET.Kniaz.ProperArchitecture.Persistence.csproj|solutionrelative:net.kniaz.properarchitecture.persistence\\repositories\\storyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8F58A3-99A1-46FB-8710-AA4497A9AD3E}|NET.Kniaz.ProperArchitecture.Persistence\\NET.Kniaz.ProperArchitecture.Persistence.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.persistence\\repositories\\sprintrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8F58A3-99A1-46FB-8710-AA4497A9AD3E}|NET.Kniaz.ProperArchitecture.Persistence\\NET.Kniaz.ProperArchitecture.Persistence.csproj|solutionrelative:net.kniaz.properarchitecture.persistence\\repositories\\sprintrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8F58A3-99A1-46FB-8710-AA4497A9AD3E}|NET.Kniaz.ProperArchitecture.Persistence\\NET.Kniaz.ProperArchitecture.Persistence.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.persistence\\repositories\\simulationresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8F58A3-99A1-46FB-8710-AA4497A9AD3E}|NET.Kniaz.ProperArchitecture.Persistence\\NET.Kniaz.ProperArchitecture.Persistence.csproj|solutionrelative:net.kniaz.properarchitecture.persistence\\repositories\\simulationresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8F58A3-99A1-46FB-8710-AA4497A9AD3E}|NET.Kniaz.ProperArchitecture.Persistence\\NET.Kniaz.ProperArchitecture.Persistence.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.persistence\\repositories\\resourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8F58A3-99A1-46FB-8710-AA4497A9AD3E}|NET.Kniaz.ProperArchitecture.Persistence\\NET.Kniaz.ProperArchitecture.Persistence.csproj|solutionrelative:net.kniaz.properarchitecture.persistence\\repositories\\resourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8F58A3-99A1-46FB-8710-AA4497A9AD3E}|NET.Kniaz.ProperArchitecture.Persistence\\NET.Kniaz.ProperArchitecture.Persistence.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.persistence\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8F58A3-99A1-46FB-8710-AA4497A9AD3E}|NET.Kniaz.ProperArchitecture.Persistence\\NET.Kniaz.ProperArchitecture.Persistence.csproj|solutionrelative:net.kniaz.properarchitecture.persistence\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8F58A3-99A1-46FB-8710-AA4497A9AD3E}|NET.Kniaz.ProperArchitecture.Persistence\\NET.Kniaz.ProperArchitecture.Persistence.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.persistence\\repositories\\currencyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8F58A3-99A1-46FB-8710-AA4497A9AD3E}|NET.Kniaz.ProperArchitecture.Persistence\\NET.Kniaz.ProperArchitecture.Persistence.csproj|solutionrelative:net.kniaz.properarchitecture.persistence\\repositories\\currencyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB436AE-0376-43D3-8DF0-D3B135849513}|NET.Kniaz.ProperArchitecture.Simulator\\NET.Kniaz.ProperArchitecture.Simulator.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.simulator\\preparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB436AE-0376-43D3-8DF0-D3B135849513}|NET.Kniaz.ProperArchitecture.Simulator\\NET.Kniaz.ProperArchitecture.Simulator.csproj|solutionrelative:net.kniaz.properarchitecture.simulator\\preparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB436AE-0376-43D3-8DF0-D3B135849513}|NET.Kniaz.ProperArchitecture.Simulator\\NET.Kniaz.ProperArchitecture.Simulator.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.simulator\\net.kniaz.properarchitecture.simulator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DCB436AE-0376-43D3-8DF0-D3B135849513}|NET.Kniaz.ProperArchitecture.Simulator\\NET.Kniaz.ProperArchitecture.Simulator.csproj|solutionrelative:net.kniaz.properarchitecture.simulator\\net.kniaz.properarchitecture.simulator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.application\\commands\\sprintcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|solutionrelative:net.kniaz.properarchitecture.application\\commands\\sprintcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80DCE08-603E-486B-890C-B264FDA3B726}|NET.Kniaz.ProperArchitecture.Domain\\NET.Kniaz.ProperArchitecture.Domain.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80DCE08-603E-486B-890C-B264FDA3B726}|NET.Kniaz.ProperArchitecture.Domain\\NET.Kniaz.ProperArchitecture.Domain.csproj|solutionrelative:net.kniaz.properarchitecture.domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8F58A3-99A1-46FB-8710-AA4497A9AD3E}|NET.Kniaz.ProperArchitecture.Persistence\\NET.Kniaz.ProperArchitecture.Persistence.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.persistence\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8F58A3-99A1-46FB-8710-AA4497A9AD3E}|NET.Kniaz.ProperArchitecture.Persistence\\NET.Kniaz.ProperArchitecture.Persistence.csproj|solutionrelative:net.kniaz.properarchitecture.persistence\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80DCE08-603E-486B-890C-B264FDA3B726}|NET.Kniaz.ProperArchitecture.Domain\\NET.Kniaz.ProperArchitecture.Domain.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.domain\\entities\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80DCE08-603E-486B-890C-B264FDA3B726}|NET.Kniaz.ProperArchitecture.Domain\\NET.Kniaz.ProperArchitecture.Domain.csproj|solutionrelative:net.kniaz.properarchitecture.domain\\entities\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.application\\commands\\storycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|solutionrelative:net.kniaz.properarchitecture.application\\commands\\storycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80DCE08-603E-486B-890C-B264FDA3B726}|NET.Kniaz.ProperArchitecture.Domain\\NET.Kniaz.ProperArchitecture.Domain.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.domain\\entities\\sprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80DCE08-603E-486B-890C-B264FDA3B726}|NET.Kniaz.ProperArchitecture.Domain\\NET.Kniaz.ProperArchitecture.Domain.csproj|solutionrelative:net.kniaz.properarchitecture.domain\\entities\\sprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.application\\commands\\projectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|solutionrelative:net.kniaz.properarchitecture.application\\commands\\projectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80DCE08-603E-486B-890C-B264FDA3B726}|NET.Kniaz.ProperArchitecture.Domain\\NET.Kniaz.ProperArchitecture.Domain.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.domain\\entities\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80DCE08-603E-486B-890C-B264FDA3B726}|NET.Kniaz.ProperArchitecture.Domain\\NET.Kniaz.ProperArchitecture.Domain.csproj|solutionrelative:net.kniaz.properarchitecture.domain\\entities\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80DCE08-603E-486B-890C-B264FDA3B726}|NET.Kniaz.ProperArchitecture.Domain\\NET.Kniaz.ProperArchitecture.Domain.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.domain\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80DCE08-603E-486B-890C-B264FDA3B726}|NET.Kniaz.ProperArchitecture.Domain\\NET.Kniaz.ProperArchitecture.Domain.csproj|solutionrelative:net.kniaz.properarchitecture.domain\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA791C34-CA4F-4CA7-8111-D2E0F60802F0}|NET.Kniaz.ProperArchitecture.API\\NET.Kniaz.ProperArchitecture.API.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.api\\controllers\\teammembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA791C34-CA4F-4CA7-8111-D2E0F60802F0}|NET.Kniaz.ProperArchitecture.API\\NET.Kniaz.ProperArchitecture.API.csproj|solutionrelative:net.kniaz.properarchitecture.api\\controllers\\teammembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA791C34-CA4F-4CA7-8111-D2E0F60802F0}|NET.Kniaz.ProperArchitecture.API\\NET.Kniaz.ProperArchitecture.API.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.api\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA791C34-CA4F-4CA7-8111-D2E0F60802F0}|NET.Kniaz.ProperArchitecture.API\\NET.Kniaz.ProperArchitecture.API.csproj|solutionrelative:net.kniaz.properarchitecture.api\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA791C34-CA4F-4CA7-8111-D2E0F60802F0}|NET.Kniaz.ProperArchitecture.API\\NET.Kniaz.ProperArchitecture.API.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.api\\controllers\\storycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA791C34-CA4F-4CA7-8111-D2E0F60802F0}|NET.Kniaz.ProperArchitecture.API\\NET.Kniaz.ProperArchitecture.API.csproj|solutionrelative:net.kniaz.properarchitecture.api\\controllers\\storycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA791C34-CA4F-4CA7-8111-D2E0F60802F0}|NET.Kniaz.ProperArchitecture.API\\NET.Kniaz.ProperArchitecture.API.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.api\\controllers\\sprintcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA791C34-CA4F-4CA7-8111-D2E0F60802F0}|NET.Kniaz.ProperArchitecture.API\\NET.Kniaz.ProperArchitecture.API.csproj|solutionrelative:net.kniaz.properarchitecture.api\\controllers\\sprintcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA791C34-CA4F-4CA7-8111-D2E0F60802F0}|NET.Kniaz.ProperArchitecture.API\\NET.Kniaz.ProperArchitecture.API.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.api\\controllers\\resourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA791C34-CA4F-4CA7-8111-D2E0F60802F0}|NET.Kniaz.ProperArchitecture.API\\NET.Kniaz.ProperArchitecture.API.csproj|solutionrelative:net.kniaz.properarchitecture.api\\controllers\\resourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA791C34-CA4F-4CA7-8111-D2E0F60802F0}|NET.Kniaz.ProperArchitecture.API\\NET.Kniaz.ProperArchitecture.API.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.api\\controllers\\commitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA791C34-CA4F-4CA7-8111-D2E0F60802F0}|NET.Kniaz.ProperArchitecture.API\\NET.Kniaz.ProperArchitecture.API.csproj|solutionrelative:net.kniaz.properarchitecture.api\\controllers\\commitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA791C34-CA4F-4CA7-8111-D2E0F60802F0}|NET.Kniaz.ProperArchitecture.API\\NET.Kniaz.ProperArchitecture.API.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.api\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA791C34-CA4F-4CA7-8111-D2E0F60802F0}|NET.Kniaz.ProperArchitecture.API\\NET.Kniaz.ProperArchitecture.API.csproj|solutionrelative:net.kniaz.properarchitecture.api\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB436AE-0376-43D3-8DF0-D3B135849513}|NET.Kniaz.ProperArchitecture.Simulator\\NET.Kniaz.ProperArchitecture.Simulator.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.simulator\\iconsoleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB436AE-0376-43D3-8DF0-D3B135849513}|NET.Kniaz.ProperArchitecture.Simulator\\NET.Kniaz.ProperArchitecture.Simulator.csproj|solutionrelative:net.kniaz.properarchitecture.simulator\\iconsoleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.application\\commands\\teammembercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|solutionrelative:net.kniaz.properarchitecture.application\\commands\\teammembercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.application\\commands\\teamcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|solutionrelative:net.kniaz.properarchitecture.application\\commands\\teamcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA791C34-CA4F-4CA7-8111-D2E0F60802F0}|NET.Kniaz.ProperArchitecture.API\\NET.Kniaz.ProperArchitecture.API.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA791C34-CA4F-4CA7-8111-D2E0F60802F0}|NET.Kniaz.ProperArchitecture.API\\NET.Kniaz.ProperArchitecture.API.csproj|solutionrelative:net.kniaz.properarchitecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA791C34-CA4F-4CA7-8111-D2E0F60802F0}|NET.Kniaz.ProperArchitecture.API\\NET.Kniaz.ProperArchitecture.API.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA791C34-CA4F-4CA7-8111-D2E0F60802F0}|NET.Kniaz.ProperArchitecture.API\\NET.Kniaz.ProperArchitecture.API.csproj|solutionrelative:net.kniaz.properarchitecture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80DCE08-603E-486B-890C-B264FDA3B726}|NET.Kniaz.ProperArchitecture.Domain\\NET.Kniaz.ProperArchitecture.Domain.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.domain\\entities\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80DCE08-603E-486B-890C-B264FDA3B726}|NET.Kniaz.ProperArchitecture.Domain\\NET.Kniaz.ProperArchitecture.Domain.csproj|solutionrelative:net.kniaz.properarchitecture.domain\\entities\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80DCE08-603E-486B-890C-B264FDA3B726}|NET.Kniaz.ProperArchitecture.Domain\\NET.Kniaz.ProperArchitecture.Domain.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.domain\\entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80DCE08-603E-486B-890C-B264FDA3B726}|NET.Kniaz.ProperArchitecture.Domain\\NET.Kniaz.ProperArchitecture.Domain.csproj|solutionrelative:net.kniaz.properarchitecture.domain\\entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80DCE08-603E-486B-890C-B264FDA3B726}|NET.Kniaz.ProperArchitecture.Domain\\NET.Kniaz.ProperArchitecture.Domain.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.domain\\entities\\commit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80DCE08-603E-486B-890C-B264FDA3B726}|NET.Kniaz.ProperArchitecture.Domain\\NET.Kniaz.ProperArchitecture.Domain.csproj|solutionrelative:net.kniaz.properarchitecture.domain\\entities\\commit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80DCE08-603E-486B-890C-B264FDA3B726}|NET.Kniaz.ProperArchitecture.Domain\\NET.Kniaz.ProperArchitecture.Domain.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.domain\\entities\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80DCE08-603E-486B-890C-B264FDA3B726}|NET.Kniaz.ProperArchitecture.Domain\\NET.Kniaz.ProperArchitecture.Domain.csproj|solutionrelative:net.kniaz.properarchitecture.domain\\entities\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.application\\commands\\commitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77555360-7304-4002-BFCC-31F206518E1C}|NET.Kniaz.ProperArchitecture.Application\\NET.Kniaz.ProperArchitecture.Application.csproj|solutionrelative:net.kniaz.properarchitecture.application\\commands\\commitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80DCE08-603E-486B-890C-B264FDA3B726}|NET.Kniaz.ProperArchitecture.Domain\\NET.Kniaz.ProperArchitecture.Domain.csproj|c:\\technology\\code\\net\\net.kniaz.properarchitecture\\net.kniaz.properarchitecture.domain\\entities\\productivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80DCE08-603E-486B-890C-B264FDA3B726}|NET.Kniaz.ProperArchitecture.Domain\\NET.Kniaz.ProperArchitecture.Domain.csproj|solutionrelative:net.kniaz.properarchitecture.domain\\entities\\productivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 224,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TeamMemberCommandHandler.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\TeamMemberCommandHandler.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\TeamMemberCommandHandler.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\TeamMemberCommandHandler.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\TeamMemberCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T13:36:07.645Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sim.wsf",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Simulator\\sim.wsf",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Simulator\\sim.wsf",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Simulator\\sim.wsf",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Simulator\\sim.wsf",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG2SURBVFhHvZYNjoQgDIVxsvfSm6k305M5fWxrKhYo/syXkCKwtn2tw3ZBMU3TxtPHoHcefBzYtqM/BPAknFAxqQ/b16AgYLJBvB7AMAzFIF4PoO/7YhCvBwBKQfyxrTLPM8/qjOPIsxC6zvwIEMR5A11rgXV8MhrreVkWvDiOHOpMpKoAMkdGE9k0ZDxvtAe7rKuWOWZO/uLcTaqAlXmKzhznMZeBtZRmBXCyy9Qf2evMYTXkrKqE6yuAI2uY7dWI6ysoKbDyHKQKgFL2J6wesJDK6vp7aeoBdD\u002B\u002BgoksTXj1H5G/pz1PrV1YGcuaztqyXiWaFACiQmw6VkGy3y3tbfRze1uJXM3BU0o0KyD8RImSAsJdJVIFLl3HyBhvKFlcwaJECXcJ9HWMiwlPuHa0JQlDBxFoCrcL1lrIlSC3nsqNc7ClMqQlOGA5ii/luYV2DuQsrCcA32VEQyqZWg3W5OzuoYIrgPTF2kqzkQL7Py3YW/mapqTpKQ/O70BG/f\u002BcgAa0bjqNBAELcs4lMOLgOyJ1tKDtppHjUg8A\u002Btum4eXSD9GTnHqgVusn0D2QNoJfu/uQ7xC\u002BWz8/HnW0X1IAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-21T13:28:32.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EntitiesCommandsMapper.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Utils\\EntitiesCommandsMapper.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Application\\Utils\\EntitiesCommandsMapper.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Utils\\EntitiesCommandsMapper.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Application\\Utils\\EntitiesCommandsMapper.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:00:27.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericSimulator.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Simulator\\GenericSimulator.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Simulator\\GenericSimulator.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Simulator\\GenericSimulator.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Simulator\\GenericSimulator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:15:49.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Simulator\\Program.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Simulator\\Program.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Simulator\\Program.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Simulator\\Program.cs",
+              "ViewState": "AQIAABIAAACAmpmZmZkVwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T04:19:30.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Persistence\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Persistence\\UnitOfWork.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Persistence\\UnitOfWork.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Persistence\\UnitOfWork.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAgwJcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T17:28:31.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ISprintEvent.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Abstractions\\ISprintEvent.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Application\\Abstractions\\ISprintEvent.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Abstractions\\ISprintEvent.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Application\\Abstractions\\ISprintEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:45:02.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PoissonSimulator.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Simulator\\PoissonSimulator.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Simulator\\PoissonSimulator.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Simulator\\PoissonSimulator.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Simulator\\PoissonSimulator.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA3wCkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:35:30.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IdealSimulator.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Simulator\\IdealSimulator.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Simulator\\IdealSimulator.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Simulator\\IdealSimulator.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Simulator\\IdealSimulator.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:02:32.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TeamMemberNotAvailableEvent.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Events\\TeamMemberNotAvailableEvent.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Application\\Events\\TeamMemberNotAvailableEvent.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Events\\TeamMemberNotAvailableEvent.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Application\\Events\\TeamMemberNotAvailableEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T16:27:11.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SimulationResultCommand.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Commands\\SimulationResultCommand.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Application\\Commands\\SimulationResultCommand.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Commands\\SimulationResultCommand.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Application\\Commands\\SimulationResultCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:33:52.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SimulationResultCommandHandler.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\SimulationResultCommandHandler.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\SimulationResultCommandHandler.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\SimulationResultCommandHandler.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\SimulationResultCommandHandler.cs",
+              "ViewState": "AQIAAAcAAAAAzczMzMwwwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:14:33.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SimulationResult.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Domain\\Entities\\SimulationResult.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Domain\\Entities\\SimulationResult.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Domain\\Entities\\SimulationResult.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Domain\\Entities\\SimulationResult.cs",
+              "ViewState": "AQIAAAoAAAD4zMzMzMw8wBwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T17:59:44.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Simulation.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Simulator\\Simulation.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Simulator\\Simulation.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Simulator\\Simulation.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Simulator\\Simulation.cs",
+              "ViewState": "AQIAACgAAACQmZmZmZkpwFQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:25:42.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Utils\\Constants.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Application\\Utils\\Constants.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Utils\\Constants.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Application\\Utils\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:22:14.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TeamCommandHandler.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\TeamCommandHandler.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\TeamCommandHandler.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\TeamCommandHandler.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\TeamCommandHandler.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:46:42.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NewScopeEvent.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Events\\NewScopeEvent.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Application\\Events\\NewScopeEvent.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Events\\NewScopeEvent.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Application\\Events\\NewScopeEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:19:26.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProjectCommandHandler.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\ProjectCommandHandler.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\ProjectCommandHandler.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\ProjectCommandHandler.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\ProjectCommandHandler.cs",
+              "ViewState": "AQIAAEgAAAAgmpmZmZkywGQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:49:08.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GenericCommandHandler.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\GenericCommandHandler.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\GenericCommandHandler.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\GenericCommandHandler.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\GenericCommandHandler.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAABIPQAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:58:07.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CommitCommandHandler.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\CommitCommandHandler.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\CommitCommandHandler.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\CommitCommandHandler.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\CommitCommandHandler.cs",
+              "ViewState": "AQIAAEIAAACAZmZmZmYawAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T21:14:43.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TeamMemberRepository.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\TeamMemberRepository.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\TeamMemberRepository.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\TeamMemberRepository.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\TeamMemberRepository.cs",
+              "ViewState": "AQIAACgAAABgZmZmZmYwwDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T03:36:42.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CurrencyCommandHandler.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\CurrencyCommandHandler.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\CurrencyCommandHandler.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\CurrencyCommandHandler.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Application\\CommandHandlers\\CurrencyCommandHandler.cs",
+              "ViewState": "AQIAAEQAAAAAaGZmZmYGwGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:03:11.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CurrencyCommand.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Commands\\CurrencyCommand.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Application\\Commands\\CurrencyCommand.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Commands\\CurrencyCommand.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Application\\Commands\\CurrencyCommand.cs",
+              "ViewState": "AQIAAAAAAAA4MzMzMzMwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:58:25.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Abstractions\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Application\\Abstractions\\ICommandHandler.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Abstractions\\ICommandHandler.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Application\\Abstractions\\ICommandHandler.cs",
+              "ViewState": "AQIAAAQAAACUmZmZmZklwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:48:46.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IEntityRepository.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Domain\\Abstractions\\IEntityRepository.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Domain\\Abstractions\\IEntityRepository.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Domain\\Abstractions\\IEntityRepository.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Domain\\Abstractions\\IEntityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:12:27.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TeamRepository.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\TeamRepository.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\TeamRepository.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\TeamRepository.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\TeamRepository.cs",
+              "ViewState": "AQIAAB0AAACANDMzMzMfwCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:14:13.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StoryRepository.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\StoryRepository.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\StoryRepository.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\StoryRepository.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\StoryRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA3wDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T18:48:25.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SprintRepository.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\SprintRepository.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\SprintRepository.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\SprintRepository.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\SprintRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T18:48:07.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SimulationResultRepository.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\SimulationResultRepository.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\SimulationResultRepository.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\SimulationResultRepository.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\SimulationResultRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:41:15.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ResourceRepository.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\ResourceRepository.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\ResourceRepository.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\ResourceRepository.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\ResourceRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwDgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:12:45.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\ProjectRepository.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\ProjectRepository.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\ProjectRepository.cs",
+              "ViewState": "AQIAACgAAAAAzszMzMwmwAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T02:21:27.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CurrencyRepository.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\CurrencyRepository.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\CurrencyRepository.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\CurrencyRepository.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Persistence\\Repositories\\CurrencyRepository.cs",
+              "ViewState": "AQIAAA8AAACgzszMzMwswCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:24:46.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SprintCommand.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Commands\\SprintCommand.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Application\\Commands\\SprintCommand.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Commands\\SprintCommand.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Application\\Commands\\SprintCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:56:45.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Preparer.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Simulator\\Preparer.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Simulator\\Preparer.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Simulator\\Preparer.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Simulator\\Preparer.cs",
+              "ViewState": "AQIAAHEAAAAAtszMzMwQwI8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:23:27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NET.Kniaz.ProperArchitecture.Simulator.csproj",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Simulator\\NET.Kniaz.ProperArchitecture.Simulator.csproj",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Simulator\\NET.Kniaz.ProperArchitecture.Simulator.csproj",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Simulator\\NET.Kniaz.ProperArchitecture.Simulator.csproj",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Simulator\\NET.Kniaz.ProperArchitecture.Simulator.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T21:12:47.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Domain\\Abstractions\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Domain\\Abstractions\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Domain\\Abstractions\\IUnitOfWork.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Domain\\Abstractions\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:06:35.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DataBaseContext.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Persistence\\DataBaseContext.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Persistence\\DataBaseContext.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Persistence\\DataBaseContext.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Persistence\\DataBaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:32:26.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "StoryCommand.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Commands\\StoryCommand.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Application\\Commands\\StoryCommand.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Commands\\StoryCommand.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Application\\Commands\\StoryCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T03:13:58.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProjectCommand.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Commands\\ProjectCommand.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Application\\Commands\\ProjectCommand.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Commands\\ProjectCommand.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Application\\Commands\\ProjectCommand.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAABiwD0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:13:03.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Story.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Domain\\Entities\\Story.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Domain\\Entities\\Story.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Domain\\Entities\\Story.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Domain\\Entities\\Story.cs",
+              "ViewState": "AQIAAAgAAABgZmZmZmYxwAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T03:54:28.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Domain\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Domain\\Entities\\Project.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Domain\\Entities\\Project.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Domain\\Entities\\Project.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAOBjwCYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:54:14.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Domain\\Entities\\Currency.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Domain\\Entities\\Currency.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Domain\\Entities\\Currency.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Domain\\Entities\\Currency.cs",
+              "ViewState": "AQIAAAUAAAAgzczMzMwswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T03:19:38.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Sprint.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Domain\\Entities\\Sprint.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Domain\\Entities\\Sprint.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Domain\\Entities\\Sprint.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Domain\\Entities\\Sprint.cs",
+              "ViewState": "AQIAAAcAAADUzMzMzMwcwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T03:55:11.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "StoryController.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.API\\Controllers\\StoryController.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.API\\Controllers\\StoryController.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.API\\Controllers\\StoryController.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.API\\Controllers\\StoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:05:44.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TeamMemberController.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.API\\Controllers\\TeamMemberController.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.API\\Controllers\\TeamMemberController.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.API\\Controllers\\TeamMemberController.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.API\\Controllers\\TeamMemberController.cs",
+              "ViewState": "AQIAAAoAAACAzMzMzMwswBUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T13:36:07.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.API\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.API\\Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.API\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.API\\Controllers\\TeamController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T19:30:10.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SprintController.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.API\\Controllers\\SprintController.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.API\\Controllers\\SprintController.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.API\\Controllers\\SprintController.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.API\\Controllers\\SprintController.cs",
+              "ViewState": "AQIAAAIAAACYMzMzMzMjwBQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:14:04.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ResourceController.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.API\\Controllers\\ResourceController.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.API\\Controllers\\ResourceController.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.API\\Controllers\\ResourceController.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.API\\Controllers\\ResourceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:05:30.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.API\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.API\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.API\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.API\\Controllers\\ProjectController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:13:30.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CommitController.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.API\\Controllers\\CommitController.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.API\\Controllers\\CommitController.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.API\\Controllers\\CommitController.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.API\\Controllers\\CommitController.cs",
+              "ViewState": "AQIAAAQAAADAmJmZmZkrwBcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:14:45.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "TeamMemberCommand.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Commands\\TeamMemberCommand.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Application\\Commands\\TeamMemberCommand.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Commands\\TeamMemberCommand.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Application\\Commands\\TeamMemberCommand.cs",
+              "ViewState": "AQIAACQAAACAy8zMzMwcwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:55:28.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IConsoleApplication.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Simulator\\IConsoleApplication.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Simulator\\IConsoleApplication.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Simulator\\IConsoleApplication.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Simulator\\IConsoleApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:24:39.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "TeamCommand.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Commands\\TeamCommand.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Application\\Commands\\TeamCommand.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Commands\\TeamCommand.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Application\\Commands\\TeamCommand.cs",
+              "ViewState": "AQIAAA0AAABANDMzMzMTwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T01:15:19.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.API\\Program.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.API\\Program.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.API\\Program.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.API\\Program.cs",
+              "ViewState": "AQIAAAgAAAAQzMzMzMwMwCcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:07:23.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.API\\appsettings.json",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.API\\appsettings.json",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.API\\appsettings.json",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T12:29:11.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "TeamMember.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Domain\\Entities\\TeamMember.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Domain\\Entities\\TeamMember.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Domain\\Entities\\TeamMember.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Domain\\Entities\\TeamMember.cs",
+              "ViewState": "AQIAAAcAAACAzMzMzMwmwAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:54:55.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Domain\\Entities\\Resource.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Domain\\Entities\\Resource.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Domain\\Entities\\Resource.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Domain\\Entities\\Resource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T18:49:15.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Domain\\Entities\\Team.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Domain\\Entities\\Team.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Domain\\Entities\\Team.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Domain\\Entities\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T21:27:10.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Commit.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Domain\\Entities\\Commit.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Domain\\Entities\\Commit.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Domain\\Entities\\Commit.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Domain\\Entities\\Commit.cs",
+              "ViewState": "AQIAAAQAAADIzMzMzMwswAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T03:54:48.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CommitCommand.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Commands\\CommitCommand.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Application\\Commands\\CommitCommand.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Application\\Commands\\CommitCommand.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Application\\Commands\\CommitCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T02:22:04.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Productivity.cs",
+              "DocumentMoniker": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Domain\\Entities\\Productivity.cs",
+              "RelativeDocumentMoniker": "NET.Kniaz.ProperArchitecture.Domain\\Entities\\Productivity.cs",
+              "ToolTip": "C:\\Technology\\Code\\NET\\NET.Kniaz.ProperArchitecture\\NET.Kniaz.ProperArchitecture.Domain\\Entities\\Productivity.cs",
+              "RelativeToolTip": "NET.Kniaz.ProperArchitecture.Domain\\Entities\\Productivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T03:55:35.302Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

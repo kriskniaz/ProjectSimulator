@@ -1,0 +1,6 @@
+@NET.Kniaz.ProperArchitecture.API_HostAddress = http://localhost:5079
+
+GET {{NET.Kniaz.ProperArchitecture.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
