@@ -29,7 +29,7 @@ class Program
 
         // Add services to the container
         services.AddDbContext<DataBaseContext>(options =>
-            options.UseSqlServer("Server=.;DataBase=Develop;User Id=sa; Password=galapagos3; Encrypt= True; TrustServerCertificate=True"));
+            options.UseSqlServer("Server=.;DataBase=Develop;User Id=sa; Password=portavenezia; Encrypt= True; TrustServerCertificate=True"));
         services.AddScoped<ICommandHandler<ProjectCommand>, ProjectCommandHandler>();
         services.AddScoped<IUnitOfWork, UnitOfWork>();
         services.AddScoped<ICommandHandler<CurrencyCommand>, CurrencyCommandHandler>();

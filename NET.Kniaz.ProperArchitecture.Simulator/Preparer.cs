@@ -46,11 +46,28 @@ namespace NET.Kniaz.ProperArchitecture.Simulator
 
         public async Task OrchestrateData()
         {
+            await PrepareCurrencies();
             await PrepareProject();
             await PrepareTeam();
             await PrepareSprints();
             await PrepareStories();
         }
+
+        public async Task PrepareCurrencies()
+        {
+            CurrencyCommand currency = await _currencyCommandHandler.GetEntityAsync("USD");
+            if (currency.ShortName != null)
+            {
+                return;
+            }
+            var currencyCommand = new CurrencyCommand();
+            currencyCommand.Id = Guid.NewGuid();
+            currencyCommand.ShortName = "USD";
+            currencyCommand.Name = "US Dollar";
+            currencyCommand.ValueinUSD = 1;
+            await _currencyCommandHandler.AddEntity(currencyCommand);
+        }
+
         public async Task PrepareProject()
         {
 
